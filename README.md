@@ -15,7 +15,7 @@ I believe students should be able to access study tools and features without a p
 - Reminders
 - Planner
 - Pomodoro timer
-- Simple GUI for users
+- Simple UI for users
 
 # Development Tools
 For this project, I plan to use: 
